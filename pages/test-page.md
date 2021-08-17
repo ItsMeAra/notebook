@@ -1,7 +1,7 @@
 ---
 title: Test Page
 date: 2021-08-17T22:02:06.373Z
-permalink: test-page
+permalink: /test-page
 eleventyNavigation:
   order: 100
   key: Test
